@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694d07ae-acb4-4043-a12d-512b871f264d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Processador" beforeDir="false" afterPath="$PROJECT_DIR$/Processador" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/2/9/29ce2b7ba8bb14629eacc0e74ca940f34ed2d765" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/2/9/29ce2b7ba8bb14629eacc0e74ca940f34ed2d765" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/4/8/485ef2d4ad14daf97984e25f3552f1d4d67c09bd" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/4/8/485ef2d4ad14daf97984e25f3552f1d4d67c09bd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/5/1/5158ff4dec10a32ccc881d65059f815b7d4df4be" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/5/1/5158ff4dec10a32ccc881d65059f815b7d4df4be" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/5/6/567873f32d01674bf7f7cbd97e38533f16d54d01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/6/2/6250c5d46dc8157cd57a7740239604a8980d1c53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/[float]" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/expected_output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/float" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/metrics.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/raciocinio.hs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/raciocinio.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/src/CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/src/CSVReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/src/MetricsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/src/MetricsReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/src/ProcessManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/src/ProcessManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processador/src/ProcessWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Processador/src/ProcessWrapper.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Processador" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1orSYwa3y656DCf7LEZZ7uSRfAE" />
@@ -67,8 +45,16 @@
       <option name="presentableId" value="Default" />
       <updated>1614043267718</updated>
       <workItem from="1614043273564" duration="106000" />
-      <workItem from="1614111687476" duration="1364000" />
+      <workItem from="1614111687476" duration="1999000" />
     </task>
+    <task id="LOCAL-00001" summary="processor">
+      <created>1614115597182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614115597182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="processor" />
+    <option name="LAST_COMMIT_MESSAGE" value="processor" />
   </component>
 </project>
