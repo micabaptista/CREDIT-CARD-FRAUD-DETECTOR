@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="694d07ae-acb4-4043-a12d-512b871f264d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Processador" beforeDir="false" afterPath="$PROJECT_DIR$/Processador" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/Processador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/bin/CSVReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/bin/MetricsReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/bin/ProcessManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/bin/ProcessWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/src/CSVReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/src/MetricsReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/src/ProcessManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Processador1/src/ProcessWrapper.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +59,7 @@
       <updated>1614043267718</updated>
       <workItem from="1614043273564" duration="106000" />
       <workItem from="1614111687476" duration="1999000" />
+      <workItem from="1615308144802" duration="235000" />
     </task>
     <task id="LOCAL-00001" summary="processor">
       <created>1614115597182</created>
